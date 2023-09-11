@@ -36,7 +36,6 @@ namespace ex25
             {
                 Console.Write($"{array[i]}|");
             }
-
         }
     }
 }
